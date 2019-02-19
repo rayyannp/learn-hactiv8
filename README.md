@@ -1,5 +1,2 @@
 # learn-hactiv8
-Javascript Course with Hactiv8
-
-1. Basic HTML
-2.
+Basic Programming HTML, CSS & Javascript Course with Hactiv8
